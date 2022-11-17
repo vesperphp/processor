@@ -1,0 +1,19 @@
+{
+  "name": "vesperphp/processor",
+  "type": "package",
+  "description": "Vesper PHP, build fast.",
+  "keywords": ["framework", "vesperphp", "backend"],
+  "license": "MIT",
+  
+   "authors": [
+      {
+          "name": "Rik Janssen",
+          "email": "rik@vesperphp.com"
+      }
+  ],
+  
+  "require": {
+
+  }
+  
+}
